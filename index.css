@@ -257,3 +257,9 @@
 				}
 			
 			}
+			@media(max-width: 576px){
+				
+			    .imp{
+			    	display: block;
+			    }
+			}
