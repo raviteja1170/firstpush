@@ -258,19 +258,39 @@
 			
 			}
 			@media(max-width: 576px){
-				
+				.nav1{
+					display: none;
+				}
+				.main{
+					width: 80%;
+					margin-left: 12%;
+					margin-top: 10%;
+				}
+				.btn{
+					padding: 3%;
+				}
 			    .imp{
 			    	display: block;
-			    	width: 40%;
+			    	width: 50%;
 			    	text-align: center;
 			    	margin-left: 27%;
 			    	padding-bottom: 2%;
 			    	padding-top:2% ;
-
 			    }
+			    
+                .imp p {
+                	font-size: 11px;
+                	line-height: 18px;
+                }
+                .imp i{
+                	font-size: 20px;
+                }
+			    
 			    .location{
 			    	margin-bottom: 10%;
+
 			    }
+
 			    .foot c{
 				    font-size: 7px;	
 				}
