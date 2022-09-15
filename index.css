@@ -297,9 +297,13 @@
 
 			    .foot c{
 				    font-size: 7px;	
+
 				}
 				.foot a{
 					font-size: 7px;
+				}
+				.foot{
+					padding-bottom: 2%;
 				}
 				.end {
 				
