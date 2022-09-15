@@ -265,9 +265,13 @@
 					width: 80%;
 					margin-left: 11%;
 					margin-top: 10%;
+					border-radius: 10%;
 				}
 				.btn{
 					padding: 3%;
+				}
+				.main a{
+					font-size: 10px;
 				}
 			    .imp{
 			    	display: block;
@@ -304,4 +308,7 @@
 				box-shadow: 1px 5px 3px rgba(0, 0, 0, 0.1);
 				border-radius: 10%;
 			}
+			.main a{
+					font-size: 10px;
+				}
 			}
