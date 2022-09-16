@@ -270,7 +270,7 @@
 				.main{
 					width: 80%;
 					margin-left: 11%;
-					margin-top: 18%;
+					margin-top: 10%;
 					border-radius: 10%;
 				}
 				.btn{
@@ -303,11 +303,11 @@
 
 			    .foot c{
 				    font-size: 7px;	
-
+                 
 				}
 				.foot a{
-					font-size: 7px;
-				
+					font-size: 10px;
+					margin-left: 1%;
 				}
 			
 				.foot{
